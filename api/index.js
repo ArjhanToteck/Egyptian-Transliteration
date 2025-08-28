@@ -27,7 +27,7 @@ const egyptianKey = {
 	"𓆓": ["dʒ", "ʒ"]
 };
 
-export default async function transliterateToEgyptian(req, res) {
+export default async function handler(req, res) {
 	try {
 		// CORS allow all to make this a public API
 		res.setHeader("Access-Control-Allow-Origin", "*");
