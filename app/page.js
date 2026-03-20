@@ -70,9 +70,6 @@ export default function Page() {
 			<br></br>
 
 			<p>Or, like all other projects on here, you could also just grab the <a href="https://github.com/ArjhanToteck/Egyptian-Transliteration">source code</a> instead. </p>
-
-			<br></br>
-
 		</section>
 	</main>
 }
